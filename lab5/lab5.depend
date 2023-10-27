@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698401462 source:c:\users\don\desktop\hvi3ert\c\lab5\5.5.c
+	<stdio.h>
+	<stdlib.h>
+
+1698405924 source:c:\users\don\desktop\hvi3ert\c\lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1698403661 source:c:\users\don\desktop\hvi3ert\c\lab5\5.4.c
+	<stdio.h>
+	<stdlib.h>
+
+1698405924 source:c:\users\don\desktop\hvi3ert\c\lab5\5.6.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

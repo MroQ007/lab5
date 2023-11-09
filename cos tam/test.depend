@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1698342630 source:c:\users\don\desktop\hvi3ert\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698344810 source:c:\users\don\desktop\hvi3ert\c\test\switch case.c
+	<stdio.h>
+	<stdlib.h>
+
+1698342940 source:c:\users\don\desktop\hvi3ert\c\test\calculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1698393832 source:c:\users\don\desktop\hvi3ert\c\test\zmiana.c
+	<stdio.h>
+	<stdlib.h>
+
